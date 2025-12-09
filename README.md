@@ -2,7 +2,7 @@ This project focuses on the design of Archimedean Spiral Patch Antennas that ope
 
 Two antennas with different inter-arm spacings were designed and evaluated using ANSYS HFSS.
 
-🧪 Tools & Technologies Used
+#Tools & Technologies Used
 
 ANSYS HFSS – 3D EM simulation
 
@@ -12,7 +12,7 @@ FR4 Substrate (εr = 4.4, thickness = 1.6 mm)
 
 Coaxial feed for excitation
 
-🧭 Phase I Contribution
+# Phase I Contribution
 
 Conducted literature survey on modern spiral, circularly polarized, and broadband antennas
 
