@@ -1,2 +1,25 @@
-# Finalyear_project_Phase_1
-This repository contains the Phase I project documentation for the design and analysis of a Metamorphic Multimode Spiral Antenna intended for amphibious military communication systems. The project is carried out as part of the Bachelor of Engineering in ECE at Velammal Engineering College, Chennai.
+This project focuses on the design of Archimedean Spiral Patch Antennas that operate in the 12–18 GHz (Ku-band) range. The antennas are optimized for wideband performance, circular polarization, and stable radiation—key requirements for modern military communication systems, especially in amphibious environments.
+
+Two antennas with different inter-arm spacings were designed and evaluated using ANSYS HFSS.
+
+🧪 Tools & Technologies Used
+
+ANSYS HFSS – 3D EM simulation
+
+MATLAB / Excel – Data analysis & plotting
+
+FR4 Substrate (εr = 4.4, thickness = 1.6 mm)
+
+Coaxial feed for excitation
+
+🧭 Phase I Contribution
+
+Conducted literature survey on modern spiral, circularly polarized, and broadband antennas
+
+Designed two spiral antenna geometries
+
+Implemented feed and boundary setup in HFSS
+
+Performed S11, VSWR, gain, and radiation analysis
+
+Compared performance of both antennas
