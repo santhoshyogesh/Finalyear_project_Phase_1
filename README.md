@@ -2,7 +2,7 @@ This project focuses on the design of Archimedean Spiral Patch Antennas that ope
 
 Two antennas with different inter-arm spacings were designed and evaluated using ANSYS HFSS.
 
-#Tools & Technologies Used
+# Tools & Technologies Used
 
 ANSYS HFSS – 3D EM simulation
 
